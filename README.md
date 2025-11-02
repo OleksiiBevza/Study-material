@@ -16,7 +16,7 @@ The repository includes two main folders — Mathematics and Computer Science �
 
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
-| **Precalculus** | The course includes two books with exercises (learners may choose either one) and accompanying video materials [Videos 1](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) &nbsp;&nbsp;&nbsp; [Videos 2](https://mathispower4u.com/alg-2.php) &nbsp;&nbsp;&nbsp; [Videos 3](https://mathispower4u.com/trigonometry.php) |
+| **Precalculus** | The course includes two books with exercises (learners may choose either one) and accompanying video materials: [Set of Videos 1](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) &nbsp;&nbsp;&nbsp; [Set of Videos 2](https://mathispower4u.com/alg-2.php) &nbsp;&nbsp;&nbsp; [Set of Videos 3](https://mathispower4u.com/trigonometry.php) |
 | **Calculus (Single and Multi-variable)** | — |
 | **Ordinary Differential Equations** | — |
 | **Introduction to Linear Algebra** | — |
