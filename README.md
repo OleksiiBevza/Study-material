@@ -11,11 +11,9 @@ The repository includes two main folders — Mathematics and Computer Science �
 
 ### Prerequisites
 
-| Topic | Sources |
-|-------|----------|
-| **Precalculus** | [Video 1](#)  |
-|  | [Video 2](#)  |
-|  | [Video 3](#)  |
-| **Calculus (single and multi-variable)** |  |
-| **Ordinary Differential Equations** |  |
-| **Introduction to Linear Algebra** |  |
+| **Topic** | **Description** |
+|:-----------|:-------------------------------------|
+| **Precalculus** | [Video 1](#) &nbsp;&nbsp;&nbsp; [Video 2](#) &nbsp;&nbsp;&nbsp; [Video 3](#) |
+| **Calculus (Single and Multi-variable)** | — |
+| **Ordinary Differential Equations** | — |
+| **Introduction to Linear Algebra** | — |
