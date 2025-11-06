@@ -1,12 +1,12 @@
-The idea of this repository is to create a rigorous undergraduate and postgraduate curriculum in data science.The repository includes two main folders: Mathematics and Computer Science - each divided into four sections:
+The idea of this repository is to create a rigorous undergraduate and postgraduate curriculum in data science. The repository includes two main folders: Mathematics and Computer Science, each divided into four sections.
 
-(i) Prerequisites
+(i) Prerequisites (basic theoretical knowledge needed to begin the essentials of data science)
 
-(ii) Undergraduate curriculum
+(ii) Undergraduate curriculum (essential theoretical knowledge in data science that prepares students for advanced graduate topics)
 
-(iii) Postgraduate curriculum
+(iii) Postgraduate curriculum (offers advanced topics in data science)
 
-(iv) PhD level
+(iv) PhD level (offers state-of-the-art methodological solutions in data science)
 
 # Mathematics
 
@@ -38,8 +38,8 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
-| **Preparation to computer science** | - |
-| **Introduction to computer science with python** | — |
+| **Preparation to computer science** | The course consists of four books containing exercises and corresponding code solutions. Learners are expected to familiarize themselves with all the material. The recommended environment for running the code is [Visual Studio Code](https://code.visualstudio.com/download) |
+| **Introduction to computer science with python** | The course consists of two books containing exercises and corresponding code solutions. Learners are expected to familiarize themselves with all the material and accompanying videos. &nbsp;&nbsp;&nbsp; [Set 1](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/download/)  |
 
 ### Undergraduate
 | **Topic** | **Description** |
