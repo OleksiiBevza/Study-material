@@ -52,4 +52,4 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Databases** | — |
 | **Algorithms engineering** | — |
 | **Computability and complexity theory** | — |
-| **Theoretical computer science** | — |
+
