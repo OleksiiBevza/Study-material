@@ -30,6 +30,21 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Measure theory** | — |
 | **Mathematics for machine learning** | — |
 
+### Postgraduate
+| **Topic** | **Description** |
+|:-----------|:-------------------------------------|
+| **Linear Algebra II** |---|
+| **Probability II** | ----- |
+| **Probability in High Dimensions** | — |
+
+
+
+
+
+
+
+
+
 
 
 # Computer Science
@@ -50,6 +65,19 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Computation structures** | The course includes one book. Accompanying materials with code and videos: &nbsp;&nbsp;&nbsp; [Set 6](https://www.youtube.com/watch?v=R0tFDXBZvKI&list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2&index=1) &nbsp;&nbsp;&nbsp; [Set 7](https://github.com/computation-structures/course?tab=readme-ov-file) |
 | **Software construction and design** | The course includes several books with corresponding code. Prerequisites: Introduction to computer science with Python, Data structures, Introduction to algorithms. Accompanying materials with code: &nbsp;&nbsp;&nbsp; [Set 8](https://web.mit.edu/6.031/www/sp22/) &nbsp;&nbsp;&nbsp; [Set9](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python-Second-Edition) &nbsp;&nbsp;&nbsp; [Set10](https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python) &nbsp;&nbsp;&nbsp; [Set11](https://github.com/Apress/advanced-python-development) |
 | **Databases** | The course includes one book. Prerequisites: Discrete mathematics and set theory, Data structures, Introduction to algorithms. Accompanying materials with video lectures (introduction or advanced): &nbsp;&nbsp;&nbsp; [Set12](https://www.youtube.com/@CMUDatabaseGroup/playlists) |
-| **Algorithms engineering** | — |
-| **Computability and complexity theory** | — |
+| **Algorithms engineering** | The course includes a list of papers.  Prerequisites: Data structures, Introduction to algorithms, Software construction and design, Discrete mathematics and set theory . Accompanying video materials: &nbsp;&nbsp;&nbsp; [Set13](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&index=1) &nbsp;&nbsp;&nbsp; [Set14](https://jshun.csail.mit.edu/6506-s24/), [Set15](https://jshun.csail.mit.edu/6506-s24/) |
+| **Computability and complexity theory** |  |
+
+### Postgraduate
+| **Topic** | **Description** |
+|:-----------|:-------------------------------------|
+| **Machine Learning II** |---|
+| **Deep Learning** | ----- |
+| **Differentiable programming** | ----- |
+| **Optimization** | ----- |
+| **Machine Learning systems** | ----- |
+| **Reinforcement Learning** | ----- |
+| **Quantuum algorithms** | ----- |
+
+
 
