@@ -15,7 +15,8 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 ### Mathematics
 
 - [Prerequisites](#prerequisites)
-
+  - [Precalculus](#precalculus)
+  - [Calculus: Single and Multi-variable](#calculus)
 
 
 # Mathematics
