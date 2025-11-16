@@ -10,6 +10,8 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 
 
 
+
+---
 ---
 ---
 # Table of Contents
@@ -53,6 +55,9 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
     - Quantuum algorithms 
 
 
+
+
+---
 ---
 ---
 # Mathematics
@@ -87,7 +92,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 
 
 
-
+---
 ---
 ---
 # Computer Science
