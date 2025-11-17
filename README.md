@@ -87,7 +87,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 |:-----------|:-------------------------------------|
 | **10. Linear Algebra II** |The course includes two books with exercises. Prerequisites: Calculus, Ordinary Differential Equations, Linear Algebra I. Accompanying video materials with with practice problems: &nbsp;&nbsp;&nbsp; [Set19](https://www.youtube.com/@ProfWonMath/videos) &nbsp;&nbsp;&nbsp; [Set20](https://www.youtube.com/@ProfessorMacauley/courses) |
 | **11. Probability II** | The course includes two books with exercises. There is also an extremely useful **The Book of Statistical Proofs** book. Prerequisites: Introduction to probability and inference, Real analysis, Functional Analysis, Measure theory.  |
-| **12. High-Dimensional Statistics** | — |
+| **12. High-Dimensional Statistics** | The course is of paramount importance and consists of 3 parts: High Dimensional Probability, High Dimensional Statistics I and High Dimensional Statistics II. It is essential to do as many exercises as possible and to understand the topics presented. Prerequisites: Linear Algebra II,  Probability II, Real analysis, Functional Analysis, Measure theory.  |
 
 
 
