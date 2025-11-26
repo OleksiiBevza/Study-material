@@ -52,8 +52,10 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
     - Optimization
     - Machine Learning systems
     - Reinforcement Learning
+    - Big Data
+    - Data Mining
     - Quantuum algorithms 
-
+- **[Specialized topics](#specialized-topics)**
 
 
 
@@ -125,7 +127,19 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Optimization** | The course includes one book. Prerequisites: , Linear Algebra I, Introduction to probability and inference, Discrete mathematics and set theory, Real Analysis, Data structures, Introduction to algorithms. Accompanying materials with additional resourses: &nbsp;&nbsp; [Set21](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) &nbsp;&nbsp; [Set22](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/) &nbsp;&nbsp; [Set23](https://github.com/ebrahimpichka/awesome-optimization?tab=readme-ov-file#video-lectures-and-courses) |
 | **Machine Learning systems** | The course includes one book. Prerequisites: Introduction to probability and inference, Machine Learning I, Machine Learning II, Computation structures, Software construction and design, Algorithms engineering. Accompanying materials with additional resourses: &nbsp;&nbsp; [Set24](https://github.com/harvard-edge/cs249r_book) |
 | **Reinforcement Learning** | The course includes several books and articles.  Accompanying materials with additional resourses (videos, articles, code): &nbsp;&nbsp; [Set25](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) &nbsp;&nbsp; [Set26](https://github.com/mphuget/References--Reinforcement-Learning?tab=readme-ov-file) &nbsp;&nbsp; [Set 27](https://www.youtube.com/@CentrumWiskundeInformatica/videos) &nbsp;&nbsp; [Set28](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning?tab=readme-ov-file) |
+| **Big Data** | coming soon |
+| **Data Mining** | coming soon |
 | **Quantuum algorithms** | coming soon |
 
 
 
+
+---
+---
+---
+# Speciaziled topics
+
+### Statistics
+| **Topic** | **Description** |
+|:-----------|:-------------------------------------|
+| ------------- | coming soon |
